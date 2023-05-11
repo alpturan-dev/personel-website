@@ -1,7 +1,6 @@
 import React from "react";
-import type { ISVGProps } from "@/types";
 
-export default function IconYoutube({ size = 22 }: ISVGProps) {
+export default function IconYoutube({ size = 22 }) {
   return (
     <svg
       role="img"

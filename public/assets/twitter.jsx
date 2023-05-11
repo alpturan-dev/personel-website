@@ -1,7 +1,6 @@
 import React from "react";
-import type { ISVGProps } from "@/types";
 
-export default function IconTwitter({ size = 22, ...props }: ISVGProps) {
+export default function IconTwitter({ size = 22, ...props }) {
   return (
     <svg
       role="img"
